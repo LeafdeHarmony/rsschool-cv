@@ -45,6 +45,5 @@ I started my training on RS-School courses in 2021, I have no experience in comm
 * Russian; 
 * Belorussian;
 * English (A2);
-
 ***
 > _This is the way_ (The Mandalorian)
