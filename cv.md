@@ -6,7 +6,12 @@
 * ___Email:___ leafdeharmony@gmail.com
 * [GitHub](https://github.com/LeafdeHarmony)
 
-## About Me: 
+## About: 
+I am 27 years old, I live in the city of Novolopolotsk.
+
+ At my previous job, I was a manager in the automotive field, was involved in the registration of applications, etc. In my free time I wrote music as a sound producer, some projects even hit the radio. 
+ 
+ I decided to go into the IT sphere, because I like to learn new things, I see it as a very promising direction, I like what I do.
 
 ## My Skills:
 
@@ -15,7 +20,7 @@
 * Git, GitHub
 
 ## Code example:
-```css
+```html
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -31,7 +36,7 @@
 </html>
 ```
 ## Education:
-School #2, Polotsk, Vitebsk reg., Belarus
+School #2, Polotsk, Vitebsk reg., Belarus. Then he graduated from the construction college in 2013.
 
 ## Experience:
 I started my training on RS-School courses in 2021, I have no experience in commercial development.
@@ -42,3 +47,4 @@ I started my training on RS-School courses in 2021, I have no experience in comm
 * English (A2);
 
 ***
+> _This is the way_ (The Mandalorian)
