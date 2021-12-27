@@ -2,9 +2,8 @@
 # Artur Rodionov
 ## Contacts:
 * ___Location:___ Novopolotsk, Vitebsk reg., Belarus
-* ___Phone:___ 
-* ___Email:___ 
-* Telegram: 
+* ___Phone:___ +375 (33) 361 32 48
+* ___Email:___ leafdeharmony@gmail.com
 * [GitHub](https://github.com/LeafdeHarmony)
 
 ## About Me: 
@@ -30,22 +29,16 @@
     <p>Мой первый параграф</p>
 </body>
 </html>
-
 ```
-
 ## Education:
 School #2, Polotsk, Vitebsk reg., Belarus
 
 ## Experience:
-
 I started my training on RS-School courses in 2021, I have no experience in commercial development.
 
 ## Language:
 * Russian; 
-* Belarusian;
+* Belorussian;
 * English (A2);
 
 ***
-
-> #### Live and learn
-> _"Live as if you were to die tomorrow. Learn as if you were to live forever"_ (Mahatma Gandhi)
