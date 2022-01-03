@@ -55,18 +55,6 @@ body {
     background:#f0c9aa;
 }
 
-
-.title-block::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background: rgb(255, 255, 255);
-    opacity: 0.1;
-}
-
 .title {
     position: relative;
     z-index: 1;
