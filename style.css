@@ -90,7 +90,17 @@ body {
 li {
     list-style-type: none;
 }
-       
+
+.project-link {
+    text-decoration: none;
+    color:#000000;
+}
+
+.project-link:hover {
+    font-style: bold;
+    color:#797979;
+}
+
 .footer {
     width: 800px;
     height: 70px; 
@@ -107,3 +117,4 @@ li {
     align-items: center;
     justify-content: space-around; 
 }
+
